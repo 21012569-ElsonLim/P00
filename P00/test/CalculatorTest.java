@@ -70,6 +70,7 @@ public class CalculatorTest {
 		int actual=cal.devide(a,b);
 		
 		int expected =100;
+		
 		assertEquals(actual,expected);
 	}
 	@Test
